@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					938B176F1D5611BB00CF84CF = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = END528J677;
 					};
 					938B17831D5611BB00CF84CF = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -401,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yang.calculator;
@@ -412,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yang.calculator;
